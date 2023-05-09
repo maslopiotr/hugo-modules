@@ -1,3 +1,3 @@
-module github.com/gethugothemes/hugo-modules/seo-tools/baidu-analytics
+module github.com/maslopiotr/hugo-modules/seo-tools/baidu-analytics
 
 go 1.19

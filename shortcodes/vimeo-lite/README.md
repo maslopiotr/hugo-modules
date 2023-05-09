@@ -1,6 +1,6 @@
 # Vimeo Lite Shortcode (DEPRICATED)
 
-use this new version instead <https://github.com/gethugothemes/hugo-modules/tree/master/videos>
+use this new version instead <https://github.com/maslopiotr/hugo-modules/tree/master/videos>
 
 ## Installation
 
@@ -8,7 +8,7 @@ Add the following code to your module list in the `config/_default/module.toml` 
 
 ```toml
 [[imports]]
-path = "github.com/gethugothemes/hugo-modules/shortcodes/vimeo-lite"
+path = "github.com/maslopiotr/hugo-modules/shortcodes/vimeo-lite"
 ```
 
 <hr>

@@ -7,7 +7,7 @@
  *   http://www.opensource.org/licenses/mit-license.php
  *
  * Original Plugin Source: https://appelsiini.net/projects/lazyload
- * Customize by: https://Gethugothemes.com
+ * Customize by: https://maslopiotr.com
  *
  */
 

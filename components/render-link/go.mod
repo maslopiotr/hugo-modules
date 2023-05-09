@@ -1,3 +1,3 @@
-module github.com/gethugothemes/hugo-modules/components/render-link
+module github.com/maslopiotr/hugo-modules/components/render-link
 
 go 1.19

@@ -1,12 +1,12 @@
 # Bootstrap Accordion/Collapse Shortcode (DEPRICATED)
 
-use this new version instead <https://github.com/gethugothemes/hugo-modules/tree/master/accordion>
+use this new version instead <https://github.com/maslopiotr/hugo-modules/tree/master/accordion>
 
 Add the following code to your module list in the `config/_default/module.toml` file.
 
 ```toml
 [[imports]]
-path = "github.com/gethugothemes/hugo-modules/shortcodes/collapse"
+path = "github.com/maslopiotr/hugo-modules/shortcodes/collapse"
 ```
 
 Add the following code to your `asstes/scss/main.scss` or `asstes/scss/style.scss` file.

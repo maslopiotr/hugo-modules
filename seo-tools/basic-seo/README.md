@@ -6,7 +6,7 @@ Add the following code to your module list in the `config/_default/module.toml` 
 
 ```toml
 [[imports]]
-path = "github.com/gethugothemes/hugo-modules/seo-tools/basic-seo"
+path = "github.com/maslopiotr/hugo-modules/seo-tools/basic-seo"
 ```
 
 <hr>
@@ -25,8 +25,8 @@ Add some following configuration to your `config/_default/params.toml` file.
 ```toml
 # seo meta data for OpenGraph / Twitter Card
 [metadata]
-keywords = ["Boilerplate", "Hugo", "Themefisher", "GetHugoThemes"]
+keywords = ["Boilerplate", "Hugo", "Themefisher", "maslopiotr"]
 description = "This is default meta description"
-author = "GetHugoThemes"
+author = "maslopiotr"
 image = "images/website-thumb.png" # this image will be used as fallback if a page has no image of its own
 ```

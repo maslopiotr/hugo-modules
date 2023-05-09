@@ -1,14 +1,14 @@
 {
-  "name": "@gethugothemes/hugo-modules",
-  "description": "Hugo Modules for gethugothemes.com themes",
-  "homepage": "https://github.com/gethugothemes/hugo-modules",
+  "name": "@maslopiotr/hugo-modules",
+  "description": "Hugo Modules for maslopiotr.com themes",
+  "homepage": "https://github.com/maslopiotr/hugo-modules",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gethugothemes/hugo-modules.git"
+    "url": "git+https://github.com/maslopiotr/hugo-modules.git"
   },
   "bugs": {
-    "url": "https://github.com/gethugothemes/hugo-modules/issues"
+    "url": "https://github.com/maslopiotr/hugo-modules/issues"
   },
   "keywords": [
     "hugo",
@@ -20,7 +20,7 @@
   },
   "author": {
     "name": "Mehedi Sharif Titas",
-    "web": "https://gethugothemes.com"
+    "web": "https://maslopiotr.com"
   },
   "maintainers": [
     {

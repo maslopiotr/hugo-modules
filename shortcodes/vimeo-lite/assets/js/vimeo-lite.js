@@ -1,5 +1,5 @@
 // original author repo https://github.com/slightlyoff/lite-vimeo
-// modified by https://github.com/gethugothemes
+// modified by https://github.com/maslopiotr
 
 class LiteVimeoEmbed extends HTMLElement {
   constructor() {

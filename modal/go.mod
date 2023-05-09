@@ -1,3 +1,3 @@
-module github.com/gethugothemes/hugo-modules/modal
+module github.com/maslopiotr/hugo-modules/modal
 
 go 1.20

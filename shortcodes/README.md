@@ -1,1 +1,1 @@
-# All Shortcodes for Gethugothemes themes
+# All Shortcodes for maslopiotr themes

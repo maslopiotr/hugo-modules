@@ -1,3 +1,3 @@
-module github.com/gethugothemes/hugo-modules/shortcodes/collapse
+module github.com/maslopiotr/hugo-modules/shortcodes/collapse
 
 go 1.19
