@@ -1,0 +1,37 @@
+{
+  "name": "@gethugothemes/hugo-modules",
+  "description": "Hugo Modules for gethugothemes.com themes",
+  "homepage": "https://github.com/gethugothemes/hugo-modules",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gethugothemes/hugo-modules.git"
+  },
+  "bugs": {
+    "url": "https://github.com/gethugothemes/hugo-modules/issues"
+  },
+  "keywords": [
+    "hugo",
+    "hugo-modules"
+  ],
+  "devDependencies": {
+    "prettier": "^2.8.1",
+    "prettier-plugin-go-template": "0.0.13"
+  },
+  "author": {
+    "name": "Mehedi Sharif Titas",
+    "web": "https://gethugothemes.com"
+  },
+  "maintainers": [
+    {
+      "name": "Somrat",
+      "email": "themefisher.dev@gmail.com",
+      "web": "https://somrat.netlify.app"
+    },
+    {
+      "name": "Sojon",
+      "email": "sojon.themefisher@gmail.com",
+      "web": ""
+    }
+  ]
+}
