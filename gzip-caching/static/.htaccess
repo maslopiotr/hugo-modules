@@ -79,10 +79,3 @@
 <FilesMatch ".(html|css|jpg|jpeg|webp|png|gif|js|ico)">
   SetOutputFilter DEFLATE
 </FilesMatch>
-
-##### Set Header Vary: Accept-Encoding
-<IfModule mod_headers.c>
-  <FilesMatch ".(js|css|xml|gz|html)$">
-    Header append Vary: Accept-Encoding
-  </FilesMatch>
-</IfModule>
