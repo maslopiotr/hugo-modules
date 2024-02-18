@@ -37,7 +37,7 @@
       aria-describedby="caption-{{ $caption | markdownify }}">
       <img
         title="{{ $title }}"
-        loading="lazy"
+        loading="preload"
         decoding="async"
         src="{{ $imagePath | absURL }}"
         alt="{{ $alt }}"
@@ -54,7 +54,7 @@
     <!-- cdn image tag -->
     <img
       title="{{ $title }}"
-      loading="lazy"
+      loading="preload"
       decoding="async"
       src="{{ $imagePath | absURL }}"
       alt="{{ $alt }}"
@@ -139,7 +139,7 @@
         aria-describedby="caption-{{ $caption | markdownify }}">
         <img
           title="{{ $title }}"
-          loading="lazy"
+          loading="preload"
           decoding="async"
           class="img {{ $class }} {{ if eq $zoomable `true` }}
             glightbox
@@ -157,7 +157,7 @@
       <!-- image tag -->
       <img
         title="{{ $title }}"
-        loading="lazy"
+        loading="preload"
         decoding="async"
         class="img {{ $class }} {{ .Scratch.Get `position` }} {{ if eq $zoomable `true` }}
           glightbox
